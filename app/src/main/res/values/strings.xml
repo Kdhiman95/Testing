@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="activityA">A</string>
+    <string name="send_data">Send</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_name">enter name</string>
+</resources>
